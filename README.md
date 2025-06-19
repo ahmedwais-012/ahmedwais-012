@@ -26,9 +26,7 @@ I'm a Computer Science student specializing in Big Data & AI, currently entering
 
 ## 📫 How to Reach Me
 
-- Email: [your.email@example.com]
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- Portfolio: [your-portfolio.com] (if available)
+- Email: [812uae@gmail.com]
 
 ---
 
