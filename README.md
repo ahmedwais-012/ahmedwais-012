@@ -11,7 +11,7 @@ I'm a Computer Science student specializing in Big Data & AI, currently entering
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript (ES6+), Python, HTML, CSS, SQL
+- **Languages:** JavaScript (ES6+), Python, HTML, CSS, SQL, C++
 - **Frameworks/Libraries:** React, Node.js, Express, Bootstrap, Pandas, NumPy, scikit-learn
 - **Databases:** MySQL, MongoDB, Firebase
 - **Tools:** Git & GitHub, VS Code, Figma, Postman
