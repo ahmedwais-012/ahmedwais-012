@@ -1,33 +1,53 @@
-# Hi there, I'm Ahmed! 👋
+# 👋 Hi there, I’m Ahmed
 
-I'm a Computer Science student specializing in Big Data & AI, currently entering my final year at university. Alongside my studies, I work as a junior website developer, building modern, responsive web applications and expanding my skills in both frontend and backend technologies.
-
-## 🚀 About Me
-
-- 🎓 4th year Computer Science student (Big Data & AI)
-- 💻 Junior Website Developer: Building and maintaining websites using modern frameworks and best practices
-- 🌱 Currently learning: Advanced AI, Data Science techniques, and scalable web development
-- ⚡ Interests: AI, Big Data, Full-stack development, Data Visualization, Cloud Computing
-
-## 🛠️ Technologies & Tools
-
-- **Languages:** JavaScript (ES6+), Python, HTML, CSS, SQL, C++
-- **Frameworks/Libraries:** React, Node.js, Express, Bootstrap, Pandas, NumPy, scikit-learn
-- **Databases:** MySQL, MongoDB, Firebase
-- **Tools:** Git & GitHub, VS Code, Figma, Postman
-- **Cloud:** Basics of AWS, GCP
-
-## 📈 What I'm Focusing On
-
-- Building scalable web apps and APIs
-- Machine learning & AI projects (Python, scikit-learn)
-- Data wrangling and visualization
-- Exploring cloud deployment for web and data projects
-
-## 📫 How to Reach Me
-
-- Email: [812uae@gmail.com]
+🎓 **Final-year Computer Science Student** specializing in **Big Data & Artificial Intelligence**  
+💼 **Junior Website Developer** at a **Media Consultancy Company** — building responsive, data-driven web applications that help businesses grow online.
 
 ---
 
-Thanks for visiting my profile! Feel free to check out my repositories or connect with me about tech, data, or web development.
+## 🚀 About Me
+
+- 🎓 **4th Year Computer Science Student** (Big Data & AI)
+- 💻 Working as a **Junior Website Developer** at a Media Consultancy company  
+- 🌱 Currently learning **Advanced AI**, **Data Science**, and **Scalable Web Development**
+- ⚡ Passionate about **AI**, **Big Data**, **Full-Stack Development**, **Data Visualization**, and **Cloud Computing**
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Languages:**  
+`JavaScript (ES6+)` · `Python` · `HTML` · `CSS` · `SQL` · `C++`
+
+**Frameworks & Libraries:**  
+`React` · `Node.js` · `Express` · `Bootstrap` · `Pandas` · `NumPy` · `scikit-learn`
+
+**Databases:**  
+`MySQL` · `MongoDB` · `Firebase`
+
+**Tools & Platforms:**  
+`Git & GitHub` · `VS Code` · `Figma` · `Postman`
+
+**Cloud:**  
+`AWS (Basics)` · `Google Cloud Platform (GCP)`
+
+---
+
+## 📈 What I’m Focusing On
+
+- Building **scalable web apps and APIs**
+- Developing **machine learning & AI projects** (Python, scikit-learn)
+- Performing **data wrangling and visualization**
+- Exploring **cloud deployment** for web and data projects
+
+---
+
+## 📫 How to Reach Me
+
+📧 **Email:** [812uae@gmail.com](mailto:812uae@gmail.com)
+
+💬 I’m always open to discussions about **tech, data, AI, or web development** — feel free to connect or collaborate!
+
+---
+
+⭐️ *Thanks for visiting my profile! Check out my repositories to see what I’m working on.*
