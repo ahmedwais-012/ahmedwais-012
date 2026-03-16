@@ -12,9 +12,7 @@ I build real-time deep learning systems and production web apps. Currently finis
 
 **RealSync** — Led a 5-person team building a real-time deepfake detection platform. 5 AI models running inference in under 500ms at 98.65% accuracy. React + Node.js + FastAPI + PyTorch + WebSocket.
 
-**Freelance** — Built and shipped production websites including [Safia Hospitals](https://safiahospitals.ae/en) (bilingual healthcare platform) and [Rotoosh](https://rotoosh.ae) (creative advertising agency).
-
-**MCmedia Dashboard** — Sole developer on a production SaaS admin dashboard for a media consultancy. React + TypeScript + Tailwind + Supabase.
+**Freelance** — Built and shipped production websites including [MCmedia Dashboard](https://mcmedia.pages.dev/) (SaaS admin dashboard, sole developer), [Safia Hospitals](https://safiahospitals.ae/en) (bilingual healthcare platform), and [Rotoosh](https://rotoosh.ae) (creative advertising agency).
 
 ---
 
